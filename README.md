@@ -6,4 +6,4 @@ It helps merge Pull Request on the GitHub when project uses [Shipkit](http://shi
 
 ## Installation 
 
-Go to [Chrome Web Store](https://chrome.google.com/webstore/)
+Go to [Chrome Web Store](https://chrome.google.com/webstore/detail/shipkit-chrome-extension/lhgfbbdagplakdfalhmmkfhjpfbphjog)
