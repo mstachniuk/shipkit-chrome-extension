@@ -3,12 +3,12 @@
   "name": "Shipkit Chrome Extension",
   "short_name": "Shipkit Chrome Extension",
   "description": "It helps merge Pull Request on the GitHub when project uses Shipkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage_url": "https://github.com/mstachniuk/shipkit-chrome-extension",
   "icons": {
     "16": "shipkit-icon.png",
     "48": "shipkit-icon.png",
-    "128": "shipkit-icon.png",
+    "128": "shipkit-icon128.png",
     "256": "shipkit-icon.png",
     "512": "shipkit-icon.png"
   },
